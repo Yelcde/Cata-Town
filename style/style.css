@@ -23,3 +23,61 @@ header{
 header h1{
     margin-left: 30px;
 }
+
+/* Footer */
+.social ul {
+    list-style-type: none;
+    display: flex;
+}
+  
+.social a {
+    margin: 0 .5rem;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-decoration: none;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.social .facebook {
+    background-color: #4b64a6;
+}
+  
+.social .google-plus {
+    background-color: #df4a32;
+}
+  
+.social .twitter {
+    background-color: #00abf1;
+}
+  
+.social .youtube {
+    background-color: #c4302a;
+}
+  
+.footer {
+    border-top: 1px solid #e0e0e0;
+}
+  
+.footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.footer address {
+    font-style: normal;
+    color: #707070;
+}
+  
+.footer .copyright {
+    padding: 1.5rem;
+    font-size: .8rem;
+    background-color: #828282;
+    text-align: center;
+    color: #fff;
+}
