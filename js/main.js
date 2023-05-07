@@ -8,3 +8,5 @@ jpMap.addEventListener('click', function(e) {
 		console.log(svg);
 	})
 });
+
+// call function write_on_table with the eventListener above

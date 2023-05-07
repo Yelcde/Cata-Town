@@ -12,6 +12,27 @@
     margin: 0;
 }
 
+/* Adapting to grid */
+
+.site-grid {
+    display: grid;
+    grid-template-columns: 1fr repeat(2, 2fr);
+    grid-template-rows: 1fr 4fr repeat(2, 1fr);
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    grid-template-areas:
+    "header header header"
+    "map map description"
+    "about about about"
+    "footer footer footer";
+}
+
+.header-area { grid-area: header; }
+.map-area { grid-area: map; }
+.description-area { grid-area: description; }
+.about-area { grid-area: about; }
+.footer-area { grid-area: footer; }
+
 /* Cabeçalho */
 header{
     font-family: 'codec pro';
@@ -47,16 +68,16 @@ header h1{
     background-color: #4b64a6;
 }
   
-.social .google-plus {
-    background-color: #df4a32;
+.social .github {
+    background-color: #171515;
 }
   
 .social .twitter {
     background-color: #00abf1;
 }
   
-.social .youtube {
-    background-color: #c4302a;
+.social .instagram {
+    background-color: #d62976;
 }
   
 .footer {
