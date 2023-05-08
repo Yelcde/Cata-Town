@@ -1,0 +1,62 @@
+/* Tabela */
+.tg  {
+    border-collapse:collapse;
+    border-color:#bbb;
+    border-spacing:0;
+    border-style:solid;
+    border-width:1px;
+    table-layout: fixed;
+    width: 251px
+}
+.tg td{
+    background-color:#E0FFEB;
+    border-color:#bbb;
+    border-style:solid;border-width:0px;
+    color:#594F4F;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+.tg th{
+    background-color:#9DE0AD;
+    border-color:#bbb;
+    border-style:solid;border-width:0px;color:#493F3F;
+    font-family:Arial, sans-serif;
+    font-size:14px;font-weight:normal;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+.tg .tg-q8ud{
+    background-color:#C2FFD6;
+    border-color:inherit;
+    text-align:left;
+    vertical-align:top
+}
+.tg .tg-d1le{
+    border-color:inherit;
+    font-size:26px;
+    font-weight:bold;
+    text-align:center;
+    vertical-align:top
+}
+.tg .tg-x46y{
+    background-color:#C2FFD6;
+    -color:inherit;
+    font-weight:bold;
+    text-align:left;
+    vertical-align:top
+}
+.tg .tg-fymr{
+    border-color:inherit;
+    font-weight:bold;
+    text-align:left;
+    vertical-align:top
+}
+.tg .tg-0pky{
+    border-color:inherit;
+    text-align:left;
+    vertical-align:top
+}

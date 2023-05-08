@@ -12,6 +12,27 @@
     margin: 0;
 }
 
+/* Adapting to grid */
+
+.site-grid {
+    display: grid;
+    grid-template-columns: 1fr repeat(2, 2fr);
+    grid-template-rows: 1fr 4fr repeat(2, 1fr);
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    grid-template-areas:
+    "header header header"
+    "map map description"
+    "about about about"
+    "footer footer footer";
+}
+
+.header-area { grid-area: header; }
+.map-area { grid-area: map; }
+.description-area { grid-area: description; }
+.about-area { grid-area: about; }
+.footer-area { grid-area: footer; }
+
 /* Cabeçalho */
 header{
     font-family: 'codec pro';
@@ -22,4 +43,62 @@ header{
 
 header h1{
     margin-left: 30px;
+}
+
+/* Footer */
+.social ul {
+    list-style-type: none;
+    display: flex;
+}
+  
+.social a {
+    margin: 0 .5rem;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-decoration: none;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.social .facebook {
+    background-color: #4b64a6;
+}
+  
+.social .github {
+    background-color: #171515;
+}
+  
+.social .twitter {
+    background-color: #00abf1;
+}
+  
+.social .instagram {
+    background-color: #d62976;
+}
+  
+.footer {
+    border-top: 1px solid #e0e0e0;
+}
+  
+.footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.footer address {
+    font-style: normal;
+    color: #707070;
+}
+  
+.footer .copyright {
+    padding: 1.5rem;
+    font-size: .8rem;
+    background-color: #828282;
+    text-align: center;
+    color: #fff;
 }
