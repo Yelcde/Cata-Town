@@ -10,12 +10,12 @@
     padding: 0;
     border: 0;
     margin: 0;
-    font-family: 'codec pro';
+    font-family: 'codec pro', Arial, Helvetica, sans-serif;
 }
 
 /* Cabeçalho */
 header{
-    font-family: 'codec pro';
+    font-family: 'codec pro', Arial, Helvetica, sans-serif;
     color: white;
     background-color: var(--cor1);
     padding: 50px;

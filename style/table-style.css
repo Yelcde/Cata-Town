@@ -15,7 +15,7 @@
     border-color:#bbb;
     border-style:solid;border-width:0px;
     color:#594F4F;
-    font-family: codec pro, Arial, Helvetica, sans-serif;
+    font-family: 'codec pro', Arial, Helvetica, sans-serif;
     font-size:14px;
     overflow:hidden;
     padding: 20px;
@@ -25,8 +25,9 @@
     background-color:#9DE0AD;
     border-color:#bbb;
     border-style:solid;border-width:0px;color:#493F3F;
-    font-family:Arial, sans-serif;
-    font-size:14px;font-weight:normal;
+    font-family: 'codec pro', Arial, Helvetica, sans-serif;
+    font-size:14px;
+    font-weight:bolder;
     overflow:hidden;
     padding: 20px;
     word-break:normal;
