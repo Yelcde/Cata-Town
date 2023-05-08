@@ -1,23 +1,12 @@
-const svg = document.getElementById('svgBairros');
-    svg.addEventListener('click', (event) => {
-    const clickedPath = event.target;
-    console.log(clickedPath.id);
+const svgBairros = document.querySelector('.map-area');
+const paths = svgBairros.querySelectorAll('path');
+
+paths.forEach((path) => {
+	if (path.id.slice(0,4) != 'path'){
+		// path.style.fill = '#fff';
+		path.addEventListener('click', (event) => {
+			const clickedPath = event.target;
+			console.log(clickedPath.id);
+		});
+	};
 });
-
-
-
-
-
-
-/* =================================
-const jpMap = document.getElementById('svgBairros');
-
-jpMap.addEventListener('click', function(e) {
-    const bairro = e.target.addEventListener('click', function(e) {
-		const bairro = e.target;
-		const svg = bairro.getAttribute('src');
-		console.log(svg);
-		// call function write_on_table with the eventListener above
-	})
-});
-*/
