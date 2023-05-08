@@ -1,3 +1,4 @@
+const nomeBairro = document.getElementById('bairro');
 const populacao = document.getElementById('populacao');
 const area = document.getElementById('area');
 const catadoresLocais = document.getElementById('catadores-locais');
@@ -5,17 +6,23 @@ const demanda = document.getElementById('demanda');
 const ultimaColeta = document.getElementById('ultima-coleta');
 
 function write_on_table(bairro) {
-    populacao.innerHTML = bairro.populacao
-    area.innerHTML = bairro.area + " hectares"
-    catadoresLocais.innerHTML = bairro.catadoresLocais
-    demanda.innerHTML = bairro.demanda + " Kg"
+    var nomeBairroTemp = bairro.nome.split('-');
+    var nomeWrite = "";
+    for (const i of nomeBairroTemp) { nomeWrite += i + " " };
+    nomeWrite = nomeWrite.slice(0,-1);
+    nomeBairro.innerHTML = nomeWrite
+
+    populacao.innerHTML = bairro.populacao;
+    area.innerHTML = bairro.area + " hectares";
+    catadoresLocais.innerHTML = bairro.catadoresLocais;
+    demanda.innerHTML = bairro.demanda + " Kg";
 
     const minute = 1000 * 60;
     const hour = minute * 60;
     const day = hour * 24;
     const year = day * 365;
 
-    var ultimaColetaDate = bairro.ultimaColeta
+    var ultimaColetaDate = bairro.ultimaColeta;
     ultimaColetaDate = new Date(ultimaColetaDate);
     const ultimaDays = Math.round(ultimaColetaDate.getTime() / day);
 
