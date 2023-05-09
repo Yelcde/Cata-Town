@@ -10,28 +10,8 @@
     padding: 0;
     border: 0;
     margin: 0;
+    font-family: 'codec pro';
 }
-
-/* Adapting to grid */
-
-.site-grid {
-    display: grid;
-    grid-template-columns: 1fr repeat(2, 2fr);
-    grid-template-rows: 1fr 4fr repeat(2, 1fr);
-    grid-column-gap: 15px;
-    grid-row-gap: 15px;
-    grid-template-areas:
-    "header header header"
-    "map map description"
-    "about about about"
-    "footer footer footer";
-}
-
-.header-area { grid-area: header; }
-.map-area { grid-area: map; }
-.description-area { grid-area: description; }
-.about-area { grid-area: about; }
-.footer-area { grid-area: footer; }
 
 /* Cabeçalho */
 header{
@@ -39,14 +19,42 @@ header{
     color: white;
     background-color: var(--cor1);
     padding: 50px;
+    box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.281);
 }
 
 header h1{
     margin-left: 30px;
 }
 
+/* Corpo do site */
+main{
+    padding: 50px;
+    background-color: #90ee9094;
+    transition: all .5s;
+}
+
+main:hover{
+    background-color: #90ee906c;
+    transition: all .5s;
+}
+
+.bairrosInfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.bairrosInfo .map-area, .description-area{
+    padding: 20px;
+}
+
+.map-area{
+    border-radius: 200px;
+}
+
 /* Footer */
-.social ul {
+/* .social ul {
     list-style-type: none;
     display: flex;
 }
@@ -101,4 +109,4 @@ header h1{
     background-color: #828282;
     text-align: center;
     color: #fff;
-}
+} */

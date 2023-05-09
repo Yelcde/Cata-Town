@@ -13,43 +13,47 @@
 <body class="site-grid">
     <header class="header-area"><h1>CATA-TOWN</h1></header>
     <main>
-        <div class="map-area">
-            <img id="svgBairros" src="images/joao_pessoa_map.svg" alt="Bairros de João Pessoa">
-        </div>
-        <div class="description-area">
-            <table class="tg">
-            <colgroup>
-            <col style="width: 125px">
-            <col style="width: 126px">
-            </colgroup>
-            <thead>
-                <tr>
-                <th class="tg-d1le" id="bairro" colspan="2">Bairro</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                <td class="tg-x46y">População:</td>
-                <td class="tg-q8ud" id="populacao"></td>
-                </tr>
-                <tr>
-                <td class="tg-fymr">Área:</td>
-                <td class="tg-0pky" id="area"></td>
-                </tr>
-                <tr>
-                <td class="tg-x46y">Catadores locais:</td>
-                <td class="tg-q8ud" id="catadores-locais"></td>
-                </tr>
-                <tr>
-                <td class="tg-fymr">Demanda:</td>
-                <td class="tg-0pky" id="demanda"></td>
-                </tr>
-                <tr>
-                <td class="tg-x46y">Última coleta:</td>
-                <td class="tg-q8ud" id="ultima-coleta"></td>
-                </tr>
-            </tbody>
-            </table>
+        <div class="bairrosInfo">
+
+            <div class="map-area">
+                <img id="svgBairros" src="images/joao_pessoa_map.svg" alt="Bairros de João Pessoa">
+            </div>
+            <div class="description-area">
+                <table class="tg">
+                    <!-- <colgroup>
+                        <col style="width: 125px">
+                        <col style="width: 126px">
+                    </colgroup> -->
+                    <thead>
+                        <tr>
+                        <th class="tgTitle" id="bairro" colspan="2" scope="colgroup">Bairro</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>População:</td>
+                            <td id="populacao"></td>
+                        </tr>
+                        <tr>
+                            <td>Área:</td>
+                            <td id="area"></td>
+                        </tr>
+                        <tr>
+                            <td>Catadores locais:</td>
+                            <td id="catadores-locais"></td>
+                        </tr>
+                        <tr>
+                            <td>Demanda:</td>
+                            <td id="demanda"></td>
+                        </tr>
+                        <tr>
+                            <td>Última coleta:</td>
+                            <td id="ultima-coleta"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
         </div>
     </main>
     <footer class="footer-area">
