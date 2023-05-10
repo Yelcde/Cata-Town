@@ -1,12 +1,21 @@
+// import bairrosJSON from '../bairrosInfo.json';
+
 const nomeBairro = document.getElementById('bairro');
 const populacao = document.getElementById('populacao');
 const area = document.getElementById('area');
 const catadoresLocais = document.getElementById('catadores-locais');
 const demanda = document.getElementById('demanda');
 const ultimaColeta = document.getElementById('ultima-coleta');
+let bairros = undefined
+
+fetch('bairrosInfo.json')
+    .then(response => response.json())
+    .then(data => {
+        bairros = data.bairros;
+    })
+    .catch(error => console.error(error));
 
 function searchBairroById(id) {
-    const bairros = bairrosJSON.bairros;
     for (let i = 0; i < bairros.length; i++) {
         if (bairros[i].nome.toLowerCase() === id.toLowerCase()) {
             return bairros[i];
@@ -15,7 +24,7 @@ function searchBairroById(id) {
     return null;
 }
 
-function write_on_table(id) {
+function writeOnTable(id) {
     const bairroClicked = searchBairroById(id);
 
     var nomeBairroTemp = bairroClicked.nome.split('-');
@@ -34,7 +43,7 @@ function write_on_table(id) {
     const day = hour * 24;
     const year = day * 365;
 
-    var ultimaColetaDate = bairro.ultimaColeta;
+    var ultimaColetaDate = bairroClicked.ultimaColeta;
     ultimaColetaDate = new Date(ultimaColetaDate);
     const ultimaDays = Math.round(ultimaColetaDate.getTime() / day);
 
@@ -42,10 +51,11 @@ function write_on_table(id) {
     const todayDays = Math.round(todayDate.getTime() / day);
 
     var daysDiff = Math.round(todayDays - ultimaDays) - 1;
-
     var label = daysDiff === 1 ? "dia" : "dias";
     ultimaColeta.innerHTML = "Há " + daysDiff + " " + label;
-}
+};
+
+export { writeOnTable };
 
 // JSON EXAMPLE:
 // ultimaColeta = YYYY-MM-DD

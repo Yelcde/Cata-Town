@@ -54,6 +54,10 @@ main:hover{
     border-radius: 200px;
 }
 
+.map-area svg path:hover {
+    filter: brightness(.9);
+}
+
 /* Footer */
 /* .social ul {
     list-style-type: none;

@@ -1761,3 +1761,12 @@ divHtml.innerHTML = `
        x="15.691463">Grotão</tspan></text>
 </svg>
 `
+
+/*
+
+<style>
+   .map-area svg text {
+   font-family: 'codec pro', Arial, Helvetica, sans-serif;
+}</style>
+
+*/
