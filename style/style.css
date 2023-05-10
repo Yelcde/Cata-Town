@@ -59,7 +59,11 @@ main:hover{
 }
 
 /* Footer */
-/* .social ul {
+footer{
+    background-color: var(--cor2);
+}
+
+.social ul {
     list-style-type: none;
     display: flex;
 }
@@ -101,17 +105,17 @@ main:hover{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 20px;
 }
   
 .footer address {
     font-style: normal;
-    color: #707070;
+    color: white;
 }
   
 .footer .copyright {
     padding: 1.5rem;
     font-size: .8rem;
-    background-color: #828282;
     text-align: center;
     color: #fff;
-} */
+}
