@@ -5,17 +5,29 @@ const catadoresLocais = document.getElementById('catadores-locais');
 const demanda = document.getElementById('demanda');
 const ultimaColeta = document.getElementById('ultima-coleta');
 
-function write_on_table(bairro) {
-    var nomeBairroTemp = bairro.nome.split('-');
+function searchBairroById(id) {
+    const bairros = bairrosJSON.bairros;
+    for (let i = 0; i < bairros.length; i++) {
+        if (bairros[i].nome.toLowerCase() === id.toLowerCase()) {
+            return bairros[i];
+        }
+    }
+    return null;
+}
+
+function write_on_table(id) {
+    const bairroClicked = searchBairroById(id);
+
+    var nomeBairroTemp = bairroClicked.nome.split('-');
     var nomeWrite = "";
     for (const i of nomeBairroTemp) { nomeWrite += i + " " };
     nomeWrite = nomeWrite.slice(0,-1);
     nomeBairro.innerHTML = nomeWrite
 
-    populacao.innerHTML = bairro.populacao;
-    area.innerHTML = bairro.area + " hectares";
-    catadoresLocais.innerHTML = bairro.catadoresLocais;
-    demanda.innerHTML = bairro.demanda + " Kg";
+    populacao.innerHTML = bairroClicked.populacao;
+    area.innerHTML = bairroClicked.area + " hectares";
+    catadoresLocais.innerHTML = bairroClicked.catadoresLocais;
+    demanda.innerHTML = bairroClicked.demanda + " Kg";
 
     const minute = 1000 * 60;
     const hour = minute * 60;
@@ -40,11 +52,12 @@ function write_on_table(bairro) {
 
 /*
 var data = {
-  populacao: 100000,
-  area: 50,
-  catadoresLocais: 10,
-  demanda: 20,
-  ultimaColeta: "2022-05-01"
+    nome: 'Local',
+    populacao: 100000,
+    area: 50,
+    catadoresLocais: 10,
+    demanda: 20,
+    ultimaColeta: "2022-05-01"
 };
 
 */

@@ -6,7 +6,7 @@ paths.forEach((path) => {
 		// path.style.fill = '#fff';
 		path.addEventListener('click', (event) => {
 			const clickedPath = event.target;
-			console.log(clickedPath.id);
+			writeOnTable(clickedPath.id)
 		});
 	};
 });

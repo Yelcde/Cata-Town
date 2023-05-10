@@ -1,36 +1,60 @@
 {
-    "bairros": [
-      {
-        "nome": "Mangabeira",
-        "populacao": 200000,
-        "area": 15,
-        "catadoresLocais": 10,
-        "demanda": 5000,
-        "ultimaColeta": "2022-05-01"
-      },
-      {
-        "nome": "Bessa",
-        "populacao": 100000,
-        "area": 10,
-        "catadoresLocais": 5,
-        "demanda": 2000,
-        "ultimaColeta": "2022-04-28"
-      },
-      {
-        "nome": "Tambaú",
-        "populacao": 50000,
-        "area": 5,
-        "catadoresLocais": 2,
-        "demanda": 1000,
-        "ultimaColeta": ""
-      },
-      {
-        "nome": "Centro",
-        "populacao": 80000,
-        "area": 8,
-        "catadoresLocais": 0,
-        "demanda": 1500,
-        "ultimaColeta": "2022-05-02"
-      }
-    ]
-  }
+  "bairros": [
+    {
+      "nome": "Mangabeira",
+      "populacao": 200000,
+      "area": 15,
+      "catadoresLocais": 10,
+      "demanda": 5000,
+      "ultimaColeta": "2022-05-01"
+    },
+    {
+      "nome": "Bessa",
+      "populacao": 100000,
+      "area": 10,
+      "catadoresLocais": 5,
+      "demanda": 2000,
+      "ultimaColeta": "2022-04-28"
+    },
+    {
+      "nome": "Tambaú",
+      "populacao": 50000,
+      "area": 5,
+      "catadoresLocais": 2,
+      "demanda": 1000,
+      "ultimaColeta": ""
+    },
+    {
+      "nome": "Bairro-das-Industrias",
+      "populacao": 10000,
+      "area": 10,
+      "catadoresLocais": 2,
+      "demanda": 5000,
+      "ultimaColeta": "2022/01/01"
+    },
+    {
+      "nome": "Bairro-dos-Estados",
+      "populacao": 15000,
+      "area": 15,
+      "catadoresLocais": 2,
+      "demanda": 1000,
+      "ultimaColeta": "2022/02/01"
+    },
+    {
+      "nome": "Torre",
+      "populacao": 20000,
+      "area": 20,
+      "catadoresLocais": 3,
+      "demanda": 1500,
+      "ultimaColeta": "2022/03/01"
+    },
+    {
+      "nome": "Centro",
+      "populacao": 80000,
+      "area": 8,
+      "catadoresLocais": 0,
+      "demanda": 1500,
+      "ultimaColeta": "2022-05-02"
+    }
+  ]
+}
