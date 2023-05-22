@@ -9,6 +9,7 @@
 *{
     padding: 0;
     border: 0;
+    box-sizing: border-box;
     margin: 0;
     font-family: 'codec pro', Arial, Helvetica, sans-serif;
 }
@@ -46,16 +47,17 @@ main:hover{
     padding: 50px;
 }
 
+.bairrosInfo .map-area{
+    width: 100%;
+    max-width: 700px;
+}
+
 .bairrosInfo .map-area, .description-area{
     padding: 20px;
 }
 
-.map-area{
-    border-radius: 200px;
-}
-
 .map-area svg path:hover {
-    filter: brightness(.9);
+    filter: brightness(.9); /* Colocar isso para ser aplicado no JS, então da para tirar o hover do atlantico */
 }
 
 /* Footer */
@@ -112,6 +114,10 @@ footer{
     font-style: normal;
     color: white;
 }
+
+.footer .ad2{
+    display: none;
+}
   
 .footer .copyright {
     padding: 1.5rem;
@@ -120,8 +126,32 @@ footer{
     color: #fff;
 }
 
-@media (max-width: 1050px){
+/* Responsividade do Site */
+
+@media (max-width: 1030px){
     .bairrosInfo{
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .bairrosInfo .map-area{
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .bairrosInfo .map-area, .description-area{
+        padding: 0;
+    }
+
+    .footer .container{
+        flex-direction: column;
+    }
+
+    .footer .ad1{
+        display: none;
+    }
+
+    .footer .ad2{
         display: block;
     }
 }
