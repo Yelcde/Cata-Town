@@ -119,3 +119,9 @@ footer{
     text-align: center;
     color: #fff;
 }
+
+@media (max-width: 1050px){
+    .bairrosInfo{
+        display: block;
+    }
+}

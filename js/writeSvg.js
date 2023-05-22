@@ -368,7 +368,7 @@ divHtml.innerHTML = `
          id="rect6373-01-3" /></flowRegion><flowPara
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#646464;fill-opacity:0.94117647"
        id="flowPara6375-2-7" /></flowRoot>  <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145; cursor: default;"
      xml:space="preserve"
      id="texte985472-0-1-2"
      y="216.56734"
@@ -378,7 +378,7 @@ divHtml.innerHTML = `
        y="216.56734"
        x="18.385092">Santa Rita</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145; cursor: default;"
      xml:space="preserve"
      id="texte985472-0-1-5"
      y="240.54817"
@@ -388,7 +388,7 @@ divHtml.innerHTML = `
        y="240.54817"
        x="110.22748">Bayeux</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145; cursor: default;"
      xml:space="preserve"
      id="texte985472-0-1-1"
      y="12.859773"
@@ -398,7 +398,7 @@ divHtml.innerHTML = `
        y="12.859773"
        x="324.22775">Cabe-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145; cursor: default;"
      xml:space="preserve"
      id="texte985472-0-1-4"
      y="22.456602"
@@ -408,7 +408,7 @@ divHtml.innerHTML = `
        y="22.456602"
        x="327.53381">delo</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.56802845px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.57840145; cursor: default;"
      xml:space="preserve"
      id="texte985472-0-1-6"
      y="488.46225"
@@ -418,7 +418,7 @@ divHtml.innerHTML = `
        y="488.46225"
        x="204.1306">Conde</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4"
      y="191.37241"
@@ -428,7 +428,7 @@ divHtml.innerHTML = `
        y="191.37241"
        x="256.49002">Centro</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-6"
      y="179.13307"
@@ -438,7 +438,7 @@ divHtml.innerHTML = `
        y="179.13307"
        x="231.30794">Vara-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-1"
      y="184.74147"
@@ -448,7 +448,7 @@ divHtml.innerHTML = `
        y="184.74147"
        x="228.77565">douro</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-18"
      y="59.070412"
@@ -458,7 +458,7 @@ divHtml.innerHTML = `
        y="59.070412"
        x="349.05878">Bessa</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-5"
      y="81.101265"
@@ -468,7 +468,7 @@ divHtml.innerHTML = `
        y="81.101265"
        x="365.99304">Jardim</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-50"
      y="86.669785"
@@ -478,7 +478,7 @@ divHtml.innerHTML = `
        y="86.669785"
        x="363.67178">Oceania</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-8"
      y="115.2038"
@@ -488,7 +488,7 @@ divHtml.innerHTML = `
        y="115.2038"
        x="348.01993">Aero-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-11"
      y="120.82427"
@@ -498,7 +498,7 @@ divHtml.innerHTML = `
        y="120.82427"
        x="347.92047">clube</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-89"
      y="151.20309"
@@ -508,7 +508,7 @@ divHtml.innerHTML = `
        y="151.20309"
        x="364.77185">Manaíra</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-45"
      y="173.08807"
@@ -518,7 +518,7 @@ divHtml.innerHTML = `
        y="173.08807"
        x="385.06519">Tambaú</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-43"
      y="240.46471"
@@ -528,7 +528,7 @@ divHtml.innerHTML = `
        y="240.46471"
        x="424.58234">Cabo</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-7"
      y="245.96393"
@@ -542,7 +542,7 @@ divHtml.innerHTML = `
      y="232.80107"
      id="text4789"
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"><tspan
        x="382.39127"
        y="232.80107"
        id="tspan4787"
@@ -552,13 +552,13 @@ divHtml.innerHTML = `
      y="238.20082"
      id="text4793"
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"><tspan
        x="378.57199"
        y="238.20082"
        id="tspan4791"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.40003014">Branco</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-3"
      y="226.53084"
@@ -568,7 +568,7 @@ divHtml.innerHTML = `
        y="226.53084"
        x="376.1983">Altiplano</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-77"
      y="274.18478"
@@ -578,7 +578,7 @@ divHtml.innerHTML = `
        y="274.18478"
        x="419.62024">Portal do Sol</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-36"
      y="283.06192"
@@ -588,7 +588,7 @@ divHtml.innerHTML = `
        y="283.06192"
        x="461.85056">Ponta do</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-2"
      y="288.84549"
@@ -598,7 +598,7 @@ divHtml.innerHTML = `
        y="288.84549"
        x="465.97153">Seixas</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-74"
      y="315.54254"
@@ -608,7 +608,7 @@ divHtml.innerHTML = `
        y="315.54254"
        x="502.39542">Penha</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-898"
      y="348.36691"
@@ -618,7 +618,7 @@ divHtml.innerHTML = `
        y="348.36691"
        x="437.19125">Costa</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-72"
      y="354.26105"
@@ -628,7 +628,7 @@ divHtml.innerHTML = `
        y="354.26105"
        x="443.06784">do</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-0"
      y="360.49692"
@@ -638,7 +638,7 @@ divHtml.innerHTML = `
        y="360.49692"
        x="441.79962">Sol</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-747"
      y="448.53836"
@@ -648,7 +648,7 @@ divHtml.innerHTML = `
        y="448.53836"
        x="417.32907">Barra de</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-749"
      y="454.30804"
@@ -658,7 +658,7 @@ divHtml.innerHTML = `
        y="454.30804"
        x="414.94165">Gramame</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-9"
      y="446.85095"
@@ -668,7 +668,7 @@ divHtml.innerHTML = `
        y="446.85095"
        x="361.43878">Muçu-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-500"
      y="452.54855"
@@ -678,7 +678,7 @@ divHtml.innerHTML = `
        y="452.54855"
        x="361.36847">magro</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-68"
      y="410.97702"
@@ -692,13 +692,13 @@ divHtml.innerHTML = `
      y="415.30252"
      id="text4901"
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"><tspan
        x="250.18649"
        y="415.30252"
        id="tspan4899"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.40003014">Gramame</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-05"
      y="391.94836"
@@ -708,7 +708,7 @@ divHtml.innerHTML = `
        y="391.94836"
        x="337.11719">Valentina</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-687"
      y="381.79126"
@@ -718,7 +718,7 @@ divHtml.innerHTML = `
        y="381.79126"
        x="300.11166">Planalto</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-52"
      y="387.85931"
@@ -728,7 +728,7 @@ divHtml.innerHTML = `
        y="387.85931"
        x="303.69281">da Boa</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-75"
      y="393.53998"
@@ -738,7 +738,7 @@ divHtml.innerHTML = `
        y="393.53998"
        x="308.97562">Espe-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-756"
      y="399.29922"
@@ -748,7 +748,7 @@ divHtml.innerHTML = `
        y="399.29922"
        x="309.46252">rança</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85"
      y="356.92194"
@@ -758,7 +758,7 @@ divHtml.innerHTML = `
        y="356.92194"
        x="302.30014">Cuiá</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-4"
      y="337.22546"
@@ -768,7 +768,7 @@ divHtml.innerHTML = `
        y="337.22546"
        x="357.6265">Mangabeira</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-1"
      y="323.49762"
@@ -778,7 +778,7 @@ divHtml.innerHTML = `
        y="323.49762"
        x="320.62097">José</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-8"
      y="329.48416"
@@ -788,7 +788,7 @@ divHtml.innerHTML = `
        y="329.48416"
        x="315.09821">Américo</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-3"
      y="291.327"
@@ -798,7 +798,7 @@ divHtml.innerHTML = `
        y="291.327"
        x="331.61298">Cidade</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-2"
      y="296.67291"
@@ -808,7 +808,7 @@ divHtml.innerHTML = `
        y="296.67291"
        x="335.41138">dos</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-27"
      y="302.3002"
@@ -818,7 +818,7 @@ divHtml.innerHTML = `
        y="302.3002"
        x="328.37729">Colibris</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-6"
      y="271.96841"
@@ -828,7 +828,7 @@ divHtml.innerHTML = `
        y="271.96841"
        x="367.37527">Jardim</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-20"
      y="277.63861"
@@ -838,7 +838,7 @@ divHtml.innerHTML = `
        y="277.63861"
        x="366.8779">Cidade</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-11"
      y="282.91092"
@@ -848,7 +848,7 @@ divHtml.innerHTML = `
        y="282.91092"
        x="357.22861">Universitária</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-32"
      y="255.85312"
@@ -858,7 +858,7 @@ divHtml.innerHTML = `
        y="255.85312"
        x="357.42755">Bancários</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-5"
      y="226.30838"
@@ -868,7 +868,7 @@ divHtml.innerHTML = `
        y="226.30838"
        x="339.02426">Castelo</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-29"
      y="231.77962"
@@ -878,7 +878,7 @@ divHtml.innerHTML = `
        y="231.77962"
        x="339.52167">Branco</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-84"
      y="265.37112"
@@ -888,7 +888,7 @@ divHtml.innerHTML = `
        y="265.37112"
        x="350.0423">A</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-81"
      y="262.13547"
@@ -898,7 +898,7 @@ divHtml.innerHTML = `
        y="262.13547"
        x="339.35046">P</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-0"
      y="276.48267"
@@ -908,7 +908,7 @@ divHtml.innerHTML = `
        y="276.48267"
        x="324.82114">Água</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-4"
      y="282.80887"
@@ -918,7 +918,7 @@ divHtml.innerHTML = `
        y="282.80887"
        x="327.01999">Fria</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-7"
      y="332.25162"
@@ -928,7 +928,7 @@ divHtml.innerHTML = `
        y="332.25162"
        x="279.91779">Ernesto</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-9"
      y="338.3197"
@@ -938,7 +938,7 @@ divHtml.innerHTML = `
        y="338.3197"
        x="282.30524">Geisel</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-1"
      y="321.70703"
@@ -948,7 +948,7 @@ divHtml.innerHTML = `
        y="321.70703"
        x="254.25267">João</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-77"
      y="327.57617"
@@ -958,7 +958,7 @@ divHtml.innerHTML = `
        y="327.57617"
        x="253.2579">Paulo</tspan></text>
   <!-- <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-99"
      y="333.44534"
@@ -968,7 +968,7 @@ divHtml.innerHTML = `
        y="333.44534"
        x="260.91763">II</tspan></text> -->
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70"
      y="362.39322"
@@ -978,7 +978,7 @@ divHtml.innerHTML = `
        y="362.39322"
        x="249.87567">G</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-6"
      y="343.0946"
@@ -988,7 +988,7 @@ divHtml.innerHTML = `
        y="343.0946"
        x="235.94885">Funci-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-8"
      y="348.83517"
@@ -1003,7 +1003,7 @@ divHtml.innerHTML = `
      style="fill:none;stroke:#646464;stroke-width:2.42837739;stroke-miterlimit:4;stroke-dasharray:none"
      transform="matrix(0.62749173,-0.34555942,-0.22679439,-0.95608927,-11.033823,1560.5607)" />
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-9"
      y="404.07416"
@@ -1013,7 +1013,7 @@ divHtml.innerHTML = `
        y="404.07416"
        x="90.032829">Mussuré</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-0"
      y="345.18365"
@@ -1023,7 +1023,7 @@ divHtml.innerHTML = `
        y="345.18365"
        x="69.341568">Mumbaba</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-06"
      y="353.43808"
@@ -1033,7 +1033,7 @@ divHtml.innerHTML = `
        y="353.43808"
        x="144.08383">Indús-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-14"
      y="359.20605"
@@ -1043,7 +1043,7 @@ divHtml.innerHTML = `
        y="359.20605"
        x="147.17883">trias</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-38"
      y="367.6655"
@@ -1053,7 +1053,7 @@ divHtml.innerHTML = `
        y="367.6655"
        x="178.56754">Distrito</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-86"
      y="373.77481"
@@ -1063,7 +1063,7 @@ divHtml.innerHTML = `
        y="373.77481"
        x="175.17119">Industrial</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-7"
      y="333.94272"
@@ -1073,7 +1073,7 @@ divHtml.innerHTML = `
        y="333.94272"
        x="211.49449">Costa</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-278"
      y="338.51868"
@@ -1083,7 +1083,7 @@ divHtml.innerHTML = `
        y="338.51868"
        x="219.35321">e</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-48"
      y="344.58676"
@@ -1093,7 +1093,7 @@ divHtml.innerHTML = `
        y="344.58676"
        x="212.98665">Silva</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-17"
      y="316.57938"
@@ -1103,7 +1103,7 @@ divHtml.innerHTML = `
        y="316.57938"
        x="224.62428">Ernani</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-92"
      y="322.34735"
@@ -1113,7 +1113,7 @@ divHtml.innerHTML = `
        y="322.34735"
        x="225.82008">Sátiro</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-97"
      y="297.86868"
@@ -1123,7 +1123,7 @@ divHtml.innerHTML = `
        y="297.86868"
        x="178.97298">Jardim</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-970"
      y="303.35529"
@@ -1133,7 +1133,7 @@ divHtml.innerHTML = `
        y="303.35529"
        x="178.41023">Veneza</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-200"
      y="291.4689"
@@ -1143,7 +1143,7 @@ divHtml.innerHTML = `
        y="291.4689"
        x="208.5631">Oitizeiro</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-00"
      y="292.66956"
@@ -1153,7 +1153,7 @@ divHtml.innerHTML = `
        y="292.66956"
        x="265.92679">Cristo</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-40"
      y="298.2403"
@@ -1163,7 +1163,7 @@ divHtml.innerHTML = `
        y="298.2403"
        x="260.44812">Redentor</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-57"
      y="255.73442"
@@ -1173,7 +1173,7 @@ divHtml.innerHTML = `
        y="255.73442"
        x="267.46198">Varjão</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-402"
      y="238.34512"
@@ -1183,7 +1183,7 @@ divHtml.innerHTML = `
        y="238.34512"
        x="239.79576">Cruz</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-07"
      y="243.91585"
@@ -1193,7 +1193,7 @@ divHtml.innerHTML = `
        y="243.91585"
        x="242.4319">das</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-09"
      y="249.18814"
@@ -1203,7 +1203,7 @@ divHtml.innerHTML = `
        y="249.18814"
        x="237.06013">Armas</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-33"
      y="228.09897"
@@ -1213,7 +1213,7 @@ divHtml.innerHTML = `
        y="228.09897"
        x="254.86656">Jaguaribe</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-60"
      y="231.84056"
@@ -1223,7 +1223,7 @@ divHtml.innerHTML = `
        y="231.84056"
        x="176.8786">Alto</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-203"
      y="237.2518"
@@ -1233,7 +1233,7 @@ divHtml.innerHTML = `
        y="237.2518"
        x="179.63689">do</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-39"
      y="242.74548"
@@ -1243,7 +1243,7 @@ divHtml.innerHTML = `
        y="242.74548"
        x="172.42334">Mateus</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-37"
      y="213.56497"
@@ -1257,13 +1257,13 @@ divHtml.innerHTML = `
      y="219.38518"
      id="text14961"
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"><tspan
        x="213.47092"
        y="219.38518"
        id="tspan14959"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.40003014">do</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-18"
      y="225.13608"
@@ -1273,7 +1273,7 @@ divHtml.innerHTML = `
        y="225.13608"
        x="208.44585">Bispo</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-24"
      y="206.56606"
@@ -1283,7 +1283,7 @@ divHtml.innerHTML = `
        y="206.56606"
        x="237.56703">Trin-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-94"
      y="212.19334"
@@ -1293,7 +1293,7 @@ divHtml.innerHTML = `
        y="212.19334"
        x="232.92451">cheiras</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-79"
      y="201.61835"
@@ -1303,7 +1303,7 @@ divHtml.innerHTML = `
        y="201.61835"
        x="297.23825">Torre</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-05"
      y="205.53856"
@@ -1313,7 +1313,7 @@ divHtml.innerHTML = `
        y="205.53856"
        x="323.30685">E</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-30"
      y="193.73119"
@@ -1323,7 +1323,7 @@ divHtml.innerHTML = `
        y="193.73119"
        x="331.92587">Tambau-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-67"
      y="199.15448"
@@ -1333,7 +1333,7 @@ divHtml.innerHTML = `
        y="199.15448"
        x="337.30402">zinho</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-01"
      y="191.16138"
@@ -1343,7 +1343,7 @@ divHtml.innerHTML = `
        y="191.16138"
        x="367.90894">Mira-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-76"
      y="195.80388"
@@ -1357,7 +1357,7 @@ divHtml.innerHTML = `
      y="171.68193"
      id="text15037"
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"><tspan
        x="357.18195"
        y="171.68193"
        id="tspan15035"
@@ -1367,13 +1367,13 @@ divHtml.innerHTML = `
      y="176.1084"
      id="text15041"
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"><tspan
        x="360.48792"
        y="176.1084"
        id="tspan15039"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.40003014">mar</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-015"
      y="157.27615"
@@ -1383,7 +1383,7 @@ divHtml.innerHTML = `
        y="157.27615"
        x="355.5701">J</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-88"
      y="142.45335"
@@ -1393,7 +1393,7 @@ divHtml.innerHTML = `
        y="142.45335"
        x="349.54492">S</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-013"
      y="169.20847"
@@ -1403,7 +1403,7 @@ divHtml.innerHTML = `
        y="169.20847"
        x="335.04523">Pedro</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-80"
      y="174.38127"
@@ -1413,7 +1413,7 @@ divHtml.innerHTML = `
        y="174.38127"
        x="337.63159">Gon-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-001"
      y="180.85538"
@@ -1423,7 +1423,7 @@ divHtml.innerHTML = `
        y="180.85538"
        x="305.0087">Estados</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-70"
      y="179.79356"
@@ -1433,7 +1433,7 @@ divHtml.innerHTML = `
        y="179.79356"
        x="339.11496">dim</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-44"
      y="180.34991"
@@ -1443,7 +1443,7 @@ divHtml.innerHTML = `
        y="180.34991"
        x="268.79337">Tambiá</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-74"
      y="164.43356"
@@ -1453,7 +1453,7 @@ divHtml.innerHTML = `
        y="164.43356"
        x="259.84042">Róger</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-12"
      y="161.80992"
@@ -1463,7 +1463,7 @@ divHtml.innerHTML = `
        y="161.80992"
        x="288.10901">Treze</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-83"
      y="167.29823"
@@ -1473,7 +1473,7 @@ divHtml.innerHTML = `
        y="167.29823"
        x="293.1763">de</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-75"
      y="172.81068"
@@ -1483,7 +1483,7 @@ divHtml.innerHTML = `
        y="172.81068"
        x="289.59512">Maio</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-947"
      y="133.11299"
@@ -1493,7 +1493,7 @@ divHtml.innerHTML = `
        y="133.11299"
        x="249.70837">Padre</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-485"
      y="138.74026"
@@ -1510,7 +1510,7 @@ divHtml.innerHTML = `
      x1="275.92331"
      style="fill:none;stroke:#646464;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-12-1"
      y="142.44321"
@@ -1520,7 +1520,7 @@ divHtml.innerHTML = `
        y="142.44321"
        x="283.55243">Manda-</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-12-6"
      y="146.94504"
@@ -1530,7 +1530,7 @@ divHtml.innerHTML = `
        y="146.94504"
        x="295.44006">caru</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-12-6-2"
      y="146.31485"
@@ -1540,7 +1540,7 @@ divHtml.innerHTML = `
        y="146.31485"
        x="326.04416">Ipês</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-12-6-3"
      y="117.36698"
@@ -1550,7 +1550,7 @@ divHtml.innerHTML = `
        y="117.36698"
        x="289.03864">Alto</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-12-6-4"
      y="122.689"
@@ -1560,7 +1560,7 @@ divHtml.innerHTML = `
        y="122.689"
        x="291.12766">do</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-85-12-6-8"
      y="128.2278"
@@ -1640,7 +1640,7 @@ divHtml.innerHTML = `
        d="m 447.91992,97.92509 h -0.78906 l -2.92188,-4.546875 -3.0625,4.546875 h -2.09375 l 4.50782,-6.6875 h 0.125 z" />
   </g>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-3"
      y="478.44562"
@@ -1650,7 +1650,7 @@ divHtml.innerHTML = `
        y="478.44562"
        x="6.9922485">A</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-8"
      y="486.32382"
@@ -1660,7 +1660,7 @@ divHtml.innerHTML = `
        y="486.32382"
        x="7.1329298">E</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-1"
      y="502.6781"
@@ -1670,7 +1670,7 @@ divHtml.innerHTML = `
        y="502.6781"
        x="7.6604881">J</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-4"
      y="510.8728"
@@ -1680,7 +1680,7 @@ divHtml.innerHTML = `
        y="510.8728"
        x="7.273613">P</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-9"
      y="518.99237"
@@ -1690,7 +1690,7 @@ divHtml.innerHTML = `
        y="518.99237"
        x="7.2512951">S</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-2"
      y="494.41522"
@@ -1700,7 +1700,7 @@ divHtml.innerHTML = `
        y="494.41522"
        x="6.7899895">G</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-3-2"
      y="478.36981"
@@ -1710,7 +1710,7 @@ divHtml.innerHTML = `
        y="478.36981"
        x="15.893723">Anatólia</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-8-8"
      y="486.24802"
@@ -1720,7 +1720,7 @@ divHtml.innerHTML = `
        y="486.24802"
        x="16.034403">Expedicionários</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-1-7"
      y="502.60229"
@@ -1730,7 +1730,7 @@ divHtml.innerHTML = `
        y="502.60229"
        x="16.561962">João Agripino</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-4-5"
      y="510.797"
@@ -1740,7 +1740,7 @@ divHtml.innerHTML = `
        y="510.797"
        x="16.175087">Jardim São Paulo</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-9-9"
      y="518.91656"
@@ -1750,7 +1750,7 @@ divHtml.innerHTML = `
        y="518.91656"
        x="16.152769">São José</tspan></text>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.20054245px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.40003014; cursor: default;"
      xml:space="preserve"
      id="texte985473-4-70-2-2"
      y="494.33942"
