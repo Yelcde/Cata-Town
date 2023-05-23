@@ -56,10 +56,6 @@ main:hover{
     padding: 20px;
 }
 
-.map-area svg path:hover {
-    filter: brightness(.9); /* Colocar isso para ser aplicado no JS, então da para tirar o hover do atlantico */
-}
-
 /* Footer */
 footer{
     background-color: var(--cor2);

@@ -15,4 +15,16 @@ filteredArr.forEach((path) => {
 		lastClicked.style.fill = '#9DE0AD'
 		writeOnTable(clickedPath.id)
 	});
+
+	// Fazendo efeito do hover entre os bairros sem incluir o Oceano
+	path.addEventListener('mouseover', (event) => {
+		const hoverPath = event.target;
+		hoverPath.style.filter = 'brightness(.9)';
+	})
+
+	// Saída do Hoverjb 
+	path.addEventListener('mouseout', (event) => {
+		const hoverPath = event.target;
+		hoverPath.style.filter = 'brightness(1)';
+	})
 });
