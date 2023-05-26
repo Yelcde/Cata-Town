@@ -7,24 +7,28 @@ let lastClicked = undefined;
 const filteredArr = paths.filter(path => path.id.slice(0,4) != 'path');
 
 filteredArr.forEach((path) => {
-	path.style.fill = '#E0FFEB';
+	path.style.fill = 'transparent';
 	path.addEventListener('click', (event) => {
 		const clickedPath = event.target;
-		if (lastClicked) { lastClicked.style.fill = '#E0FFEB' };
+		if (lastClicked) { lastClicked.style.fill = 'transparent' };
 		lastClicked = clickedPath;
-		lastClicked.style.fill = '#9DE0AD'
+		lastClicked.style.fill = 'rgba(0, 74, 26, .4)'
 		writeOnTable(clickedPath.id)
 	});
 
 	// Fazendo efeito do hover entre os bairros sem incluir o Oceano
 	path.addEventListener('mouseover', (event) => {
 		const hoverPath = event.target;
-		hoverPath.style.filter = 'brightness(.9)';
+		if (lastClicked != hoverPath) {
+			hoverPath.style.fill = 'rgba(0, 74, 26, .2)';
+		}
 	})
 
 	// Saída do Hoverjb 
 	path.addEventListener('mouseout', (event) => {
 		const hoverPath = event.target;
-		hoverPath.style.filter = 'brightness(1)';
+		if (lastClicked != hoverPath) {
+			path.style.fill = 'transparent';
+		}
 	})
 });

@@ -1,60 +1,68 @@
 {
   "bairros": [
     {
-      "nome": "Mangabeira",
-      "populacao": 200000,
+      "nome": "Água Fria",
+      "populacao": 6.269,
       "area": 15,
       "catadoresLocais": 10,
       "demanda": 5000,
       "ultimaColeta": "2022-05-01"
     },
     {
-      "nome": "Bessa",
-      "populacao": 100000,
-      "area": 10,
-      "catadoresLocais": 5,
-      "demanda": 2000,
-      "ultimaColeta": "2022-04-28"
-    },
-    {
-      "nome": "Tambaú",
-      "populacao": 50000,
-      "area": 5,
-      "catadoresLocais": 2,
-      "demanda": 1000,
-      "ultimaColeta": ""
-    },
-    {
-      "nome": "Bairro-das-Industrias",
-      "populacao": 10000,
-      "area": 10,
-      "catadoresLocais": 2,
-      "demanda": 5000,
-      "ultimaColeta": "2022/01/01"
-    },
-    {
-      "nome": "Bairro-dos-Estados",
-      "populacao": 15000,
+      "nome": "Anatólia",
+      "populacao": 1.162,
       "area": 15,
-      "catadoresLocais": 2,
-      "demanda": 1000,
-      "ultimaColeta": "2022/02/01"
+      "catadoresLocais": 10,
+      "demanda": 5000,
+      "ultimaColeta": "2022-05-01"
     },
     {
-      "nome": "Torre",
-      "populacao": 20000,
-      "area": 20,
-      "catadoresLocais": 3,
-      "demanda": 1500,
-      "ultimaColeta": "2022/03/01"
+      "nome": "Bairro das Indústrias",
+      "populacao": 	8.712,
+      "area": 15,
+      "catadoresLocais": 10,
+      "demanda": 5000,
+      "ultimaColeta": "2022-05-01"
     },
     {
-      "nome": "Centro",
-      "populacao": 80000,
-      "area": 8,
-      "catadoresLocais": 0,
-      "demanda": 1500,
-      "ultimaColeta": "2022-05-02"
-    }
+      "nome": "Bancários",
+      "populacao": 11.863,
+      "area": 15,
+      "catadoresLocais": 10,
+      "demanda": 5000,
+      "ultimaColeta": "2022-05-01"
+    },
+    {
+      "nome": "Barra de Gramame",
+      "populacao": 347,
+      "area": 15,
+      "catadoresLocais": 10,
+      "demanda": 5000,
+      "ultimaColeta": "2022-05-01"
+    },
+    {
+      "nome": "Cidade dos Colibris",
+      "populacao": 4.095,
+      "area": 15,
+      "catadoresLocais": 10,
+      "demanda": 5000,
+      "ultimaColeta": "2022-05-01"
+    },
+    {
+      "nome": "",
+      "populacao": ,
+      "area": 15,
+      "catadoresLocais": 10,
+      "demanda": 5000,
+      "ultimaColeta": "2022-05-01"
+    },
+    {
+      "nome": "",
+      "populacao": ,
+      "area": 15,
+      "catadoresLocais": 10,
+      "demanda": 5000,
+      "ultimaColeta": "2022-05-01"
+    },
   ]
 }
